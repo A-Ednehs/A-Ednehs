@@ -11,7 +11,7 @@
     </td>
     <td>
 
-<a href="https://github.com/A-Ednehs/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api?username=A-Ednehs">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=A-Ednehs" />
 </a>
 
@@ -26,7 +26,7 @@
   <tr>
     <td>
 
-  <a href="https://github.com/A-Ednehs/github-readme-stats">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Ednehs&layout=compact">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Ednehs&layout=compact" />
 </a>
 
