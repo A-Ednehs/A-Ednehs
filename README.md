@@ -19,7 +19,29 @@
 </table>
 
 
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Ednehs)](https://github.com/A-Ednehs/github-readme-stats)
+
+
+<!-- Table Layout -->
+<table>
+  <tr>
+    <td>
+
+  <a href="https://github.com/A-Ednehs/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Ednehs&layout=compact" />
+</a>
+
+
+  </td>
+    <td>
+
+### About Languages
+
+- HTML
+- CSS
+- JS
+
+  </tr>
+</table>
 
 
 <!--
